@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Nike",
+    "image": "/Nike.svg"
+  },
+  {
+    "name": "Adidas",
+    "image": "/Adidas.svg"
+  },
+  {
+    "name": "Gucci",
+    "image": "/Gucci.svg"
+  },
+  {
+    "name": "Zara",
+    "image": "/Zara.svg"
+  },
+  {
+    "name": "HnM",
+    "image": "/Hm.svg"
+  },
+  {
+    "name": "Levi's",
+    "image": "/Levis.svg"
+  },
+  {
+    "name": "Puma",
+    "image": "/Puma.svg"
+  },
+
+  {
+    "name": "Calvin Klein",
+    "image": "/Ck.svg"
+  }
+]
